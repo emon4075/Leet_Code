@@ -3,24 +3,20 @@ class Solution
     public:
         bool isPowerOfTwo(int n)
         {
-            n = (long long)n;
-            if (n == 1)
+            if (n <= 0)
+            {
+                return false;
+            }
+            n = (long long) n;
+            int i = log2(n);
+            long long res = pow(2, i);
+            if (res == n)
+            {
                 return true;
+            }
             else
             {
-                long long i = 1;
-                while (true)
-                {
-                    if (i == n)
-                    {
-                        return true;
-                    }
-                    if (i > n)
-                    {
-                        return false;
-                    }
-                    i *= 2;
-                }
+                return false;
             }
         }
 };
