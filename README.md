@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/emon4075/Leet_Code/tree/master/0258-add-digits) |
+| [3226-minimum-number-game](https://github.com/emon4075/Leet_Code/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -38,4 +39,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/emon4075/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/emon4075/Leet_Code/tree/master/3226-minimum-number-game) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/emon4075/Leet_Code/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/emon4075/Leet_Code/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
