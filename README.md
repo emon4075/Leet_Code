@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/emon4075/Leet_Code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/emon4075/Leet_Code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/emon4075/Leet_Code/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
