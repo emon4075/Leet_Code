@@ -7,6 +7,7 @@
 | [0231-power-of-two](https://github.com/emon4075/Leet_Code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/emon4075/Leet_Code/tree/master/0258-add-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/emon4075/Leet_Code/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/emon4075/Leet_Code/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
 | ------- |
