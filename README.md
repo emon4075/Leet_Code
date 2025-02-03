@@ -55,6 +55,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/emon4075/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/emon4075/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/emon4075/Leet_Code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/emon4075/Leet_Code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/emon4075/Leet_Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/emon4075/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/emon4075/Leet_Code/tree/master/0389-find-the-difference) |
+| [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/emon4075/Leet_Code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [3226-minimum-number-game](https://github.com/emon4075/Leet_Code/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/emon4075/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
