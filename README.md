@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/emon4075/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/emon4075/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/emon4075/Leet_Code/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/emon4075/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -58,6 +59,7 @@
 | [0075-sort-colors](https://github.com/emon4075/Leet_Code/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/emon4075/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/emon4075/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/emon4075/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/emon4075/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -73,6 +75,7 @@
 | [0075-sort-colors](https://github.com/emon4075/Leet_Code/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/emon4075/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/emon4075/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/emon4075/Leet_Code/tree/master/0389-find-the-difference) |
 | [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/emon4075/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,10 +90,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/emon4075/Leet_Code/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/emon4075/Leet_Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/emon4075/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Counting Sort
 |  |
