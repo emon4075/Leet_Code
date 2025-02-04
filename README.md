@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/emon4075/Leet_Code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/emon4075/Leet_Code/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/emon4075/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/emon4075/Leet_Code/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/emon4075/Leet_Code/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
@@ -60,6 +61,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/emon4075/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/emon4075/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/emon4075/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/emon4075/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/emon4075/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/emon4075/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/emon4075/Leet_Code/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/emon4075/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/emon4075/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/emon4075/Leet_Code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
