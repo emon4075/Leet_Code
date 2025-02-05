@@ -65,6 +65,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/emon4075/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/emon4075/Leet_Code/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1306-minimum-absolute-difference](https://github.com/emon4075/Leet_Code/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/emon4075/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/emon4075/Leet_Code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/emon4075/Leet_Code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -83,6 +84,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/emon4075/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/emon4075/Leet_Code/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1306-minimum-absolute-difference](https://github.com/emon4075/Leet_Code/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/emon4075/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/emon4075/Leet_Code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [3226-minimum-number-game](https://github.com/emon4075/Leet_Code/tree/master/3226-minimum-number-game) |
