@@ -12,6 +12,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/emon4075/Leet_Code/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/emon4075/Leet_Code/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/emon4075/Leet_Code/tree/master/0389-find-the-difference) |
 ## Recursion
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/emon4075/Leet_Code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/emon4075/Leet_Code/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/emon4075/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/emon4075/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/emon4075/Leet_Code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
