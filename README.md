@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/emon4075/Leet_Code/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/emon4075/Leet_Code/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/emon4075/Leet_Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -116,4 +118,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/emon4075/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
