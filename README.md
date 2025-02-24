@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/emon4075/Leet_Code/tree/master/0258-add-digits) |
+| [0874-backspace-string-compare](https://github.com/emon4075/Leet_Code/tree/master/0874-backspace-string-compare) |
 | [3226-minimum-number-game](https://github.com/emon4075/Leet_Code/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/emon4075/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/emon4075/Leet_Code/tree/master/0389-find-the-difference) |
+| [0874-backspace-string-compare](https://github.com/emon4075/Leet_Code/tree/master/0874-backspace-string-compare) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/emon4075/Leet_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/emon4075/Leet_Code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/emon4075/Leet_Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -102,6 +104,7 @@
 | [0075-sort-colors](https://github.com/emon4075/Leet_Code/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0874-backspace-string-compare](https://github.com/emon4075/Leet_Code/tree/master/0874-backspace-string-compare) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/emon4075/Leet_Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/emon4075/Leet_Code/tree/master/0874-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
