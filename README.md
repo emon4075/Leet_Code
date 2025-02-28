@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/emon4075/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/emon4075/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/emon4075/Leet_Code/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/emon4075/Leet_Code/tree/master/0874-backspace-string-compare) |
@@ -130,6 +131,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/emon4075/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/emon4075/Leet_Code/tree/master/0874-backspace-string-compare) |
 ## Backtracking
