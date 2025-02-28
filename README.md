@@ -47,6 +47,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/emon4075/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/emon4075/Leet_Code/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/emon4075/Leet_Code/tree/master/0874-backspace-string-compare) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/emon4075/Leet_Code/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/emon4075/Leet_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/emon4075/Leet_Code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/emon4075/Leet_Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -136,6 +137,7 @@
 | [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/emon4075/Leet_Code/tree/master/0316-remove-duplicate-letters) |
 | [0874-backspace-string-compare](https://github.com/emon4075/Leet_Code/tree/master/0874-backspace-string-compare) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/emon4075/Leet_Code/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,8 +146,10 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/emon4075/Leet_Code/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/emon4075/Leet_Code/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/emon4075/Leet_Code/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/emon4075/Leet_Code/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
