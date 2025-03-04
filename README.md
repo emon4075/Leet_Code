@@ -55,6 +55,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/emon4075/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/emon4075/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/emon4075/Leet_Code/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/emon4075/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/emon4075/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/emon4075/Leet_Code/tree/master/0316-remove-duplicate-letters) |
 | [0874-backspace-string-compare](https://github.com/emon4075/Leet_Code/tree/master/0874-backspace-string-compare) |
@@ -152,4 +154,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/emon4075/Leet_Code/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/emon4075/Leet_Code/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/emon4075/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
