@@ -38,6 +38,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/emon4075/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/emon4075/Leet_Code/tree/master/0389-find-the-difference) |
+| [1039-find-the-town-judge](https://github.com/emon4075/Leet_Code/tree/master/1039-find-the-town-judge) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/emon4075/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/emon4075/Leet_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
@@ -75,6 +76,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/emon4075/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/emon4075/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/emon4075/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1039-find-the-town-judge](https://github.com/emon4075/Leet_Code/tree/master/1039-find-the-town-judge) |
 | [1137-height-checker](https://github.com/emon4075/Leet_Code/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/emon4075/Leet_Code/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/emon4075/Leet_Code/tree/master/1306-minimum-absolute-difference) |
@@ -164,4 +166,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/emon4075/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/emon4075/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/emon4075/Leet_Code/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
