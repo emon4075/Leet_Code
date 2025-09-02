@@ -170,4 +170,8 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/emon4075/Leet_Code/tree/master/1039-find-the-town-judge) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/emon4075/Leet_Code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
